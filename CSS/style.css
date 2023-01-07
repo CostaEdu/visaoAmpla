@@ -1,8 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Noto Serif', serif;
+    background-color:#FFD25F;
 }
+
 img {
     width: 100px;
     background: ;
 }
 
+p {
+ 
+}
+
+h1 {
+    color: #FFD25F;
+    font-family: ;
+}
+header {
+    
+}
