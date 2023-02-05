@@ -106,7 +106,14 @@ footer {
 #depoimentos {
     text-align: center;
     margin-top: 100px;
+
 }    
+
+#desde{
+    background-color: #F2B8EA;
+    color: #496066;
+    margin-bottom: 50px;
+}
 
 .frase1 {
     text-align: center;
@@ -115,3 +122,21 @@ footer {
     color: #F84A92;
 }
 
+h4 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #496066;
+    font-size:0rem;
+    font-family: 'Poppins' !important
+}
+
+h2 {
+    color: #F2B8EA;
+}
+
+.section-carrossel-depoimentos{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+ }
