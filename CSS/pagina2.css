@@ -8,7 +8,6 @@ img {
 body {
     background-color: white !important ; 
     font-family: 'Poppins' !important;
-    
 }
 
 .indice > * {
@@ -59,9 +58,24 @@ footer {
 h1 {
     display: flex;
     justify-content: center;
+    color: #F0824D;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins' !important;
+    color: #F84A92;
 }
 
 h3 {
+    font-family: 'Poppins' !important;
     display: flex;
     justify-content: center;
 }
+
+h4 {
+    display: flex;
+    justify-content: center;
+}
+
