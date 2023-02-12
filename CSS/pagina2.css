@@ -59,6 +59,7 @@ h1 {
     display: flex;
     justify-content: center;
     color: #F0824D;
+    font-size: 1.5rem !important;
 }
 
 h2 {
@@ -77,5 +78,21 @@ h3 {
 h4 {
     display: flex;
     justify-content: center;
+    font-family: 'Poppins' !important;
 }
 
+
+h2, h3, h4 {
+    font-size: 1.0rem !important;
+    justify-content: center !important;
+    font-family: 'Poppins' !important;
+    display: flex !important;
+}
+
+/* .somos {
+    background-color:#F0824D
+}
+
+.faq {
+    background-color: #F2B8EA;
+} */
