@@ -39,17 +39,19 @@ body {
     color: #F0824D;
     font-size: 20px;
     display: block;
-
+    font-weight: bold;
 }
 
 #masculino{
     color: #F0824D;
     font-size: 20px;
+    font-weight: bold;
 }
 
 #sol{
     color: #F0824D;
     font-size: 20px;
+    font-weight: bold;
 }
 
 .tamanhoImagem {
@@ -111,8 +113,9 @@ footer {
 
 #desde{
     background-color: #F2B8EA;
-    color: #496066;
+    color: #F0824D;
     margin-bottom: 50px;
+    text-shadow: 0.05em 0.05em 0.05em #496066;
 }
 
 .frase1 {
@@ -120,6 +123,7 @@ footer {
     margin-top: 50px;
     margin-bottom: 50px;
     color: #F84A92;
+    text-shadow: 0.1em 0.1em 0.2em #496066;
 }
 
 h4 {
@@ -140,3 +144,7 @@ h2 {
     display: flex;
     align-items: center;
  }
+
+.mapa{
+    margin-left: 900px;
+}
