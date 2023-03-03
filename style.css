@@ -107,15 +107,14 @@ footer {
 
 #depoimentos {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 200px;
 
 }    
 
 #desde{
-    background-color: #F2B8EA;
     color: #F0824D;
-    margin-bottom: 50px;
     text-shadow: 0.05em 0.05em 0.05em #496066;
+    font-weight: bold;
 }
 
 .frase1 {
@@ -143,8 +142,15 @@ h2 {
     justify-content: center;
     display: flex;
     align-items: center;
+    text-align: center;
+    height: 600px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -100px;
  }
 
 .mapa{
     margin-left: 900px;
+    margin-top: -200px;
 }
