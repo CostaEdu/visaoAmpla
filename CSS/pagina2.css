@@ -84,15 +84,42 @@ h4 {
 
 h2, h3, h4 {
     font-size: 1.0rem !important;
-    justify-content: center !important;
+    text-align: center !important;
     font-family: 'Poppins' !important;
     display: flex !important;
 }
 
-/* .somos {
-    background-color:#F0824D
+ .somos {
+    margin-bottom: 5%;
+    margin-top: 5%;
+} 
+
+.tituloh1{
+    /* margin-top: 1.5%;
+    margin-right: 2%;
+    margin-left: 1%; */
+    font-weight: bold;
+    text-shadow: 0.08em 0.08em 0.08em #496066;
+}
+
+.idealizadores {
+    margin-bottom: 2%;
+
 }
 
 .faq {
     background-color: #F2B8EA;
-} */
+} 
+
+.comoFunciona {
+    margin-top: 3%;
+
+}
+
+.coluna-como-funciona{
+    display: grid;
+    grid-template-columns: 45% 45%;
+    gap: 10%;
+    padding: 0 5%;
+
+}
